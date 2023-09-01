@@ -1,0 +1,12 @@
+.menu {
+    display: flex;
+    padding: 10px;
+    background-color:rgb(183, 12, 199);
+    list-style: none;
+    gap: 10px;
+}
+
+.texto {
+    text-decoration: none;
+    color: white;
+}
